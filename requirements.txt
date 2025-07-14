@@ -1,0 +1,2 @@
+pyodbc>=4.0.39
+python-decouple>=3.8
